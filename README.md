@@ -180,6 +180,9 @@ Sales-Profit-Analysis/
 
 ---
 
+<img width="1602" height="587" alt="image" src="https://github.com/user-attachments/assets/d87de57a-879e-405c-9612-1f6d10148c94" />
+
+
 ### 👤 Author
 
 **Swetank Kumar Singh**
